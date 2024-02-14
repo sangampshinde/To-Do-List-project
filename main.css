@@ -43,7 +43,11 @@ list-style: none;
     background-color: #34495e;
     padding: 10px;
     border-radius: 2px;
+    padding-left: 30px;
+    text-align: justify;
 }
 #to-do-box i{
-    position: absolute;
+    position: absolute;;
+    right:10px;
+    top:10px;
 }
